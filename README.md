@@ -6,7 +6,7 @@ I study Recommendation System in Naver BoostCamp AI Tech
 
 If you want to contact me, please send me a message or mail (momey11@naver.com)
 
-### My Career
+### ☑ My Career
 - Naver BoostCamp AI Tech ('22~)
 - LX Hausys IT Planning Team ('19~'22)
 - SungKyunKwan Univ. Systems Management Engineering (Industrial Engineering) Major
