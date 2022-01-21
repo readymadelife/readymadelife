@@ -11,7 +11,7 @@ If you want to contact me, please send me a message or mail (📧 momey11@naver.
 - LX Hausys IT Planning Team ('19~'22)
 
 ### ☑ Education
-- SungKyunKwan Univ., Seoul, Republic of Korea
+- SungKyunKwan University, Seoul, Republic of Korea
   - Bachelor of Systems Management Engineering (Industrial Engineering)
 
 <!--
