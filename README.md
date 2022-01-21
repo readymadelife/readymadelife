@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Lim kyeongyeon who is interested in AI
+I'm Lim kyeongyeon who is interested in AI, Data Science
 
 I study Recommendation System in Naver BoostCamp AI Tech
 
