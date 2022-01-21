@@ -4,12 +4,15 @@ I'm Lim kyeongyeon who is interested in AI, Data Science
 
 I study Recommendation System in Naver BoostCamp AI Tech
 
-If you want to contact me, please send me a message or mail (momey11@naver.com)
+If you want to contact me, please send me a message or mail (📧 momey11@naver.com)
 
 ### ☑ My Career
 - Naver BoostCamp AI Tech ('22~)
 - LX Hausys IT Planning Team ('19~'22)
-- SungKyunKwan Univ. Systems Management Engineering (Industrial Engineering) Major
+
+### ☑ Education
+- SungKyunKwan Univ., Seoul, Republic of Korea
+  - Bachelor of Systems Management Engineering (Industrial Engineering)
 
 <!--
 **readymadelife/readymadelife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
